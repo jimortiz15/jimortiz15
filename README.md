@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Jim Ortiz
 
-<!--
-**jimortiz15/jimortiz15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GTM Engineer. I build the systems behind outbound: list building, enrichment, sending infrastructure and the automations that tie them together.
 
-Here are some ideas to get you started:
+Currently building outbound and campaign automation for [InsideOut Marketing](https://insideoutmarketing.co).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I build
+- **Lead sourcing and enrichment**: Clay tables, email-finding waterfalls, data cleanup and dedupe pipelines
+- **Cold email operations**: Smartlead and Instantly campaign automation, inbox and deliverability management, reply categorization
+- **Workflow automation**: n8n workflows, webhooks, scheduled jobs with GitHub Actions
+- **Data and reporting**: Supabase, Google Sheets pipelines, campaign dashboards
+- **AI-assisted builds**: Claude Code projects, LLM-based classification and research
+
+### Stack
+Clay · Smartlead · Instantly · n8n · Supabase · Python · Next.js · Netlify · GitHub Actions · Claude Code
+
+### Find me
+- YouTube (build walkthroughs and tutorials): youtube.com/@Jim.Ortiz.Freelancer
+- LinkedIn: linkedin.com/in/jimortiz/
